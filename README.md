@@ -15,17 +15,22 @@ Wall-Pong is a single-player Python game built with **Arcade**. The player contr
    cd "WallPongAccelerator"
    ```
 
-2. **Activate the virtual environment**
+2. **Initialize the virtual environment** (with python installed)
+   ```bash
+   python -m venv .venv
+   ```
+   
+3. **Activate the virtual environment**
    ```bash
    .\.venv\Scripts\Activate.ps1
    ```
 
-3. **Install required packages** (if not already installed)
+4. **Install required packages** (if not already installed)
    ```bash
    pip install arcade numpy
    ```
 
-4. **Run the game**
+5. **Run the game**
    ```bash
    python main.py
    ```
@@ -56,7 +61,7 @@ WallPongAccelerator/
 - ├── constants.py      # Game constants (colors, speeds, dimensions, file paths)
 - ├── assets/           # Generated sound files (beeps, game over, start sounds)
 - ├── highscore.txt     # Persistent high score storage
-- ├── .venv/            # Python virtual environment
+- ├── .venv/            # Python virtual environment (once initialized)
 
 
 # Useful Websites
