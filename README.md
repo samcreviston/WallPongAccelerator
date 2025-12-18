@@ -1,6 +1,6 @@
 # WallPongAccelerator
 
-# Overview
+**Overview**
 
 I built this project to stretch my Python knowledge and adopt the Arcade library into my skillset!
 
@@ -27,14 +27,12 @@ Wall-Pong is a single-player Python game built with **Arcade**. The player contr
 4. **Run the game**
    ```bash
    python main.py
-   ```
 
 ## Alternative Setup (Direct Run)
 
 If you prefer not to activate the virtual environment:
     ```bash
     ".\.venv\Scripts\python.exe" main.py
-    ```
 
 ## Controls
 
