@@ -6,9 +6,7 @@ I built this project to stretch my Python knowledge and adopt the Arcade library
 
 Wall-Pong is a single-player Python game built with **Arcade**. The player controls a paddle to bounce a ball off the walls and try to achieve the highest score possible. The game features dynamic speed acceleration, retro-style visuals, arcade sound effects, high score tracking, and a performance-optimized UI
 
-{your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/_sl3LzNsFLk)
 
 ## Setup Instructions
 
@@ -50,7 +48,7 @@ If you prefer not to activate the virtual environment:
 
 # Development Environment
 
-I built this within VS Code in Python. I utilized mainly the Arvade library, as well as Numpy for some sound effects.
+I built this within VS Code in Python. I utilized mainly the Arcade library, as well as Numpy for some sound effects.
 
 ## Project Structure
 WallPongAccelerator/
