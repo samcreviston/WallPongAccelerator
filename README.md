@@ -54,12 +54,12 @@ I built this within VS Code in Python. I utilized mainly the Arvade library, as 
 
 ## Project Structure
 WallPongAccelerator/
-├── main.py              # Main game code with sound effects and pause functionality
-├── constants.py         # Game constants (colors, speeds, dimensions)
-├── assets/              # Generated sound files (beeps, game over, start sounds)
-├── highscore.txt        # Persistent high score storage
-├── .venv/              # Python virtual environment
-└── README.md           # This file
+├── main.py           # Main game code with sound effects and pause functionality
+├── constants.py      # Game constants (colors, speeds, dimensions)
+├── assets/           # Generated sound files (beeps, game over, start sounds)
+├── highscore.txt     # Persistent high score storage
+├── .venv/            # Python virtual environment
+└── README.md         # This file
 
 **Files explained:**
 
