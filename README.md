@@ -31,8 +31,7 @@ Wall-Pong is a single-player Python game built with **Arcade**. The player contr
 ## Alternative Setup (Direct Run)
 
 If you prefer not to activate the virtual environment:
-    ```bash
-    ".\.venv\Scripts\python.exe" main.py
+    .\.venv\Scripts\python.exe" main.py
 
 ## Controls
 
