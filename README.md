@@ -15,23 +15,29 @@ Wall-Pong is a single-player Python game built with **Arcade**. The player contr
 1. **Navigate to project directory**  
    ```bash
    cd "WallPongAccelerator"
+   ```
 
 2. **Activate the virtual environment**
    ```bash
    .\.venv\Scripts\Activate.ps1
+   ```
 
 3. **Install required packages** (if not already installed)
    ```bash
    pip install arcade numpy
+   ```
 
 4. **Run the game**
    ```bash
    python main.py
+   ```
 
 ## Alternative Setup (Direct Run)
 
 If you prefer not to activate the virtual environment:
-    .\.venv\Scripts\python.exe" main.py
+```bash
+".\.venv\Scripts\python.exe" main.py
+```
 
 ## Controls
 
