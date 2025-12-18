@@ -54,30 +54,19 @@ I built this within VS Code in Python. I utilized mainly the Arvade library, as 
 
 ## Project Structure
 WallPongAccelerator/
-- ├── main.py           # Main game code with sound effects and pause functionality
-- ├── constants.py      # Game constants (colors, speeds, dimensions)
+- ├── main.py           # Main game code with physics, sound effects, and pause functionality
+- ├── constants.py      # Game constants (colors, speeds, dimensions, file paths)
 - ├── assets/           # Generated sound files (beeps, game over, start sounds)
 - ├── highscore.txt     # Persistent high score storage
 - ├── .venv/            # Python virtual environment
-- └── README.md         # This file
 
-**Files explained:**
-
-- `main.py` – Complete game implementation with physics, sound system, pause functionality, and retro UI styling
-- `constants.py` – All configurable values (colors, speeds, dimensions, file paths)
-- `assets/` – Auto-generated WAV sound files for arcade-style audio experience
-- `highscore.txt` – High score persistence between game sessions
 
 # Useful Websites
-
-{Make a list of websites that you found helpful in this project}
 * [Arcade Explanation from Real Python](https://realpython.com/arcade-python-game-framework/)
 * [Numpy documentation](https://numpy.org/doc/)
 
 # Future Work
-
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Game modes such as two player
+* Mode with extra lives
+* Adjustable speed settings
 
